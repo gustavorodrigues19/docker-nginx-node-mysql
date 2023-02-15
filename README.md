@@ -21,6 +21,6 @@ If you match all requirements, then run:
 
 All containers will up and you can start to play with this app :)
 
-## The outcome expected is:
+## Outcome expected:
 
 ![7C29CBE9-AF8E-4BF0-B448-5AFCAD489761](https://user-images.githubusercontent.com/51866106/218892244-efff2c3c-82f3-40d0-9000-ae98a2b5a10a.jpeg)
